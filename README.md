@@ -11,3 +11,5 @@ However using the FLASH broker function brokercreatefile with the readonly flag 
 Inject the PoC into IE11, it will try to steal the first .txt file from the documents folder and drop it in favorites (which is write-able by IE11).
 
 There is some buffer issues ... I can't program ... I just make crappy PoCs.
+
+Use included demo if you need help with reproduction.
