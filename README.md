@@ -6,7 +6,7 @@ IE11 has been fundementally broken for years.
 
 EPM is supposed to restrict read access rights to most folders...
 
-However using the FLASH broker function brokercreatefile with the readonly flag set ... you can read everyfile.
+However using the flash broker function brokercreatefile with the readonly flag set ... you can read everyfile.
 
 Inject the PoC into IE11, it will try to steal the first .txt file from the documents folder and drop it in favorites (which is write-able by IE11).
 
